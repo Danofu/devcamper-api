@@ -1,3 +1,4 @@
 _data/
 node_modules/
+public/
 config/config.env
